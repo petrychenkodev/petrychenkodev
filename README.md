@@ -18,3 +18,4 @@ Vue 3 / Nuxt 3 / TypeScript / Pinia / Tailwind / Vitest / Cypress
 ### 📝 My Latest Articles
 
 - [Lessons From 2 Years of Building Vue 3 + TypeScript Apps](https://oleksiicode.hashnode.dev/lessons-from-two-years-of-building-vue-3-typescript-applications-for-the-adult-content-industry)
+- [My Essential VS Code Plugins for Vue 3 + Nuxt Projects](https://oleksiicode.hashnode.dev/my-essential-vs-code-plugins-for-vue-3-nuxt-projects)
