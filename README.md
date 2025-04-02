@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey, I'm Oleksii 👋
 
-<!--
-**petrychenkodev/petrychenkodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Frontend Developer focused on Vue 3, Nuxt 3, TypeScript and scalable architectures.  
+After years working with product companies, I’m finally building my open portfolio here.
 
-Here are some ideas to get you started:
+🧩 Working on real-world apps  
+🧠 Writing clean, scalable code  
+🌍 Remote-ready & open to collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech stack:
+Vue 3 / Nuxt 3 / TypeScript / Pinia / Tailwind / Vitest / Cypress
+
+> Previously worked on high-traffic applications in a closed-source environment.  
+> Now building and sharing in the open.
+
+📬 [LinkedIn](https://www.linkedin.com/in/oleksii-petrychenko-38064515b/)
+
+### 📝 My Latest Articles
+
+- [Lessons From 2 Years of Building Vue 3 + TypeScript Apps](https://oleksiicode.hashnode.dev/lessons-from-two-years-of-building-vue-3-typescript-applications-for-the-adult-content-industry)
