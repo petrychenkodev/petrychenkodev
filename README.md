@@ -21,3 +21,4 @@ Vue 3 / Nuxt 3 / TypeScript / Pinia / Tailwind / Vitest / Cypress
 - [My Essential VS Code Plugins for Vue 3 + Nuxt Projects](https://oleksiicode.hashnode.dev/my-essential-vs-code-plugins-for-vue-3-nuxt-projects)
 - [My Ergonomic Minimalist Desk Setup](https://oleksiicode.hashnode.dev/my-ergonomic-minimalist-desk-setup) 
 - [Why I Left Vuex for Pinia — And Never Looked Back](https://oleksiicode.hashnode.dev/why-i-left-vuex-for-pinia-and-never-looked-back)
+- [The Hardest Component I’ve Built in Vue 3 + TypeScript: Dynamic Form Engine](https://oleksiicode.hashnode.dev/the-hardest-component-ive-built-in-vue-3-typescript-dynamic-form-engine)
