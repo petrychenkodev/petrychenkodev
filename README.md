@@ -15,6 +15,9 @@ Vue 3 / Nuxt 3 / TypeScript / Pinia / Tailwind / Vitest / Cypress
 
 📬 [LinkedIn](https://www.linkedin.com/in/oleksii-petrychenko-38064515b/)
 
+### 📝 My Blog about Programming
+- [https://oleksiicode.hashnode.dev/](https://oleksiicode.hashnode.dev/)
+
 ### 📝 My Latest Articles
 
 - [Lessons From 2 Years of Building Vue 3 + TypeScript Apps](https://oleksiicode.hashnode.dev/lessons-from-two-years-of-building-vue-3-typescript-applications-for-the-adult-content-industry)
