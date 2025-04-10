@@ -15,10 +15,10 @@ Vue 3 / Nuxt 3 / TypeScript / Pinia / Tailwind / Vitest / Cypress
 
 📬 [LinkedIn](https://www.linkedin.com/in/oleksii-petrychenko-38064515b/)
 
-### 📝 My Blog about Programming
+### 📝 My Blog about Programming 👇🏻
 [https://oleksiicode.hashnode.dev/](https://oleksiicode.hashnode.dev/)
 
-### [My Vanilla JS Excel clone project](https://github.com/petrychenkodev/excel-vanilla)
+### 👉🏻 [My Vanilla JS Excel clone project](https://github.com/petrychenkodev/excel-vanilla)
 
 ### 📝 My Favourite Articles
 
