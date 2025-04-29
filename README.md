@@ -10,10 +10,11 @@ To demonstrate my real-world frontend skills and passion for modern technologies
 
 ---
 
-### 🚀 Check it out:
+## 🌟 Featured Project: Nuxt Crypto
 
-🔗 **[GitHub Repository →](https://github.com/petrychenkodev/nuxt-crypto)**  
-🔗 **[Live Demo →](https://nuxt-crypto.netlify.app/)**
+### 🔗 [👉 GitHub Repository](https://github.com/petrychenkodev/nuxt-crypto)
+
+### 🌐 [🚀 Live Demo](https://nuxt-crypto.netlify.app/)
 
 ---
 
