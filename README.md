@@ -8,8 +8,13 @@ As a result, my public GitHub presence is relatively new.
 Currently, I am in a creative search for new opportunities.  
 To demonstrate my real-world frontend skills and passion for modern technologies, I built a full project from scratch using **Nuxt 3, TypeScript, Tailwind CSS, Pinia**, and other up-to-date tools.
 
-🚀 Check it out:  
-- [GitHub Repository](https://github.com/petrychenkodev/nuxt-crypto)  
-- [Live Demo](https://nuxt-crypto.netlify.app/)
+---
+
+### 🚀 Check it out:
+
+🔗 **[GitHub Repository →](https://github.com/petrychenkodev/nuxt-crypto)**  
+🔗 **[Live Demo →](https://nuxt-crypto.netlify.app/)**
+
+---
 
 Thank you for taking the time to review my work!
